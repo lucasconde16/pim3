@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/omatheusgomes/teste/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
+    <img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/logo_img.png" alt="NexHelp" width="400px">
 </p>
 
 <h2 id="about">📌 Sobre Nós</h2>
@@ -59,3 +59,27 @@ Entre as principais ferramentas utilizadas no desenvolvimento do projeto estão:
 - Utilização da linguagem de programação [Python](https://www.python.com/), no editor [VSCode](https://code.visualstudio.com/) para implementação dos sistemas Desktop e Mobile.
 - Utilização da plataforma [Figma](https://www.figma.com/) para elaboração de protótipos interativos da interface do projeto.
 - Utilização do sistema [SQL Server](https://www.microsoft.com/pt-br/sql-server) para gerenciamento do banco de dados do projeto.
+
+<h2 id="calendar">📅 Entregas</h2>
+
+| Datas | Links | Objetivos            
+|----------------------|-------------------|----------------------------------
+| 14/04 à 21/04 | [Sprint 1](https://github.com/lucasconde16/pim3/tree/Sprint-1) | Modelagem dos Artefatos da UML. 
+| 21/04 à 28/04 | [Sprint 2](https://github.com/lucasconde16/pim3/tree/Sprint-2) | Elaboração do Protótipo de Interface Gráfica.
+| 28/04 à 09/05 | [Sprint 3](https://github.com/lucasconde16/pim3/tree/Sprint-3) | Estruturação do Banco de Dados e seus relacionamentos.
+| 10/05 à 21/05 | [Sprint 4](https://github.com/lucasconde16/pim3/tree/Sprint-4) | Documentação completa do PIM (Caderno).
+
+<h2 id="colab">🤝 Colaboradores</h2>
+
+Um agradecimento especial a todas as pessoas que contribuem para este projeto.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/485541952_678664004665370_1722236768666346613_n.jpg?ccb=11-4&oh=01_Q5Aa1QGLuNB5-d7saUh9ZKS2aQ6U2cEmuMYUhgpyEtJtp33RRQ&oe=680A54AE&_nc_sid=5e03e0&_nc_cat=105" width="100px;" alt="Lucas Foto"/><br>
+        <sub>
+          <b>Lucas Condé (PO)</b>
+        </sub>
+      </a>
+    </td>
