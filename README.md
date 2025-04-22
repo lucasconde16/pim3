@@ -45,3 +45,17 @@ Objeto: Representação das instâncias reais das classes em um determinado mome
 ### 4. Diagrama de Sequência
 
 Mostra a ordem e o fluxo das interações entre os objetos durante a execução de funcionalidades específicas.
+
+Mostra a ordem e o fluxo das interações entre os objetos durante a execução de funcionalidades específicas.
+
+<p align="center">
+<img src="https://github.com/lucasconde/pim3/blob/main/Imagens/casosdeuso_img.png" alt="CasosdeUso" width="700px">
+</p>
+
+### 5. Diagrama de Implantação
+
+Representa a estrutura física do sistema NexHelp, mostrando os componentes de software distribuídos nos servidores e dispositivos, além das conexões entre eles para garantir o funcionamento da aplicação.
+
+<p align="center">
+<img src="https://github.com/lucasconde/pim3/blob/main/Imagens/casosdeuso_img.png" alt="CasosdeUso" width="700px">
+</p>
