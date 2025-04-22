@@ -28,3 +28,20 @@ Listagem das funcionalidades e tarefas organizadas em prioridades, com base no c
 ### 2. Diagrama de Casos de Uso
 
 Representação as funcionalidades principais do sistema e suas interações com os atores (cliente, IA, técnico e admin).
+
+<p align="center">
+<img src="https://github.com/lucasconde/pim3/blob/main/Imagens/casosdeuso_img.png" alt="CasosdeUso" width="700px">
+</p>
+
+### 3. Diagrama de Classe e Objeto
+
+Classe: Estruturação das principais classes do sistema, seus atributos, métodos e relacionamentos, partindo para uma perspectiva orientada a objetos.
+Objeto: Representação das instâncias reais das classes em um determinado momento da execução do sistema, mostrando como os objetos se relacionam e interagem em cenários específicos.
+
+<p align="center">
+<img src="https://github.com/lucasconde/pim3/blob/main/Imagens/casosdeuso_img.png" alt="CasosdeUso" width="700px">
+</p>
+
+### 4. Diagrama de Sequência
+
+Mostra a ordem e o fluxo das interações entre os objetos durante a execução de funcionalidades específicas.
