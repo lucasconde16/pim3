@@ -22,7 +22,7 @@ Nesta sprint, foi realizada a modelagem inicial do sistema NexHelp utilizando a 
 Listagem das funcionalidades e tarefas organizadas em prioridades, com base no cenário da estrutura do PIM, definindo o que será desenvolvido no sistema e em qual ordem.
 
 <p align="center">
-<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/casosdeuso_img.png" alt="CasosdeUso" width="700px">
+<img src="https://github.com/lucasconde16/pim3/blob/main/Imagens/backlogs_img.png" alt="CasosdeUso" width="700px">
 </p>
 
 ### 2. Diagrama de Casos de Uso
@@ -61,8 +61,8 @@ Representa a estrutura física do sistema NexHelp, mostrando os componentes de s
 <h2 id="docs">🗂️ Documentos</h2>
 
 Todos os documentos dos artefatos em formatos '.docx' e '.asta':
-- Backlogs:
-- Diagramas: 
+- Backlogs: 
+- [Diagramas](https://github.com/lucasconde16/pim3/blob/main/Diagramas/diagramas_uml.asta) 
 
 <h2 id="calendar">📅 Outros Sprints</h2>
 
