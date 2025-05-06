@@ -17,7 +17,7 @@ Nesta sprint, foi realizada a modelagem inicial do sistema NexHelp utilizando a 
 
 <h2 id="desenv">📝 Desenvolvimento</h2>
 
-### 1. Backlog do Produto e da Sprint
+### 1. Backlog do [Produto](https://github.com/lucasconde16/pim3/blob/Sprint-1/Backlogs/backlog_do_produto.pdf) e da Sprint
 
 Listagem das funcionalidades e tarefas organizadas em prioridades, com base no cenário da estrutura do PIM, definindo o que será desenvolvido no sistema e em qual ordem.
 
