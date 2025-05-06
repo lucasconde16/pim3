@@ -40,7 +40,7 @@ Representação da estrutura física do sistema NexHelp, mostrando os componente
 <h2 id="docs">🗂️ Documentos</h2>
 
 Todos os documentos dos artefatos em formatos '.docx' e '.asta':
-- Backlogs: 
+- [Backlogs](https://github.com/lucasconde16/pim3/tree/Sprint-1/Backlogs) 
 - [Diagramas](https://github.com/lucasconde16/pim3/blob/main/Diagramas/diagramas_uml.asta) 
 
 <h2 id="calendar">📅 Outros Sprints</h2>
